@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 702F-F624
+
+ Directory of C:\proyectosgit\primerRepo\hector
+
+16/01/2019  05:47 p.m.    <DIR>          .
+16/01/2019  05:47 p.m.    <DIR>          ..
+16/01/2019  05:47 p.m.                 0 l.txt
+16/01/2019  03:07 p.m.           203,381 Untitled.jpg
+               2 File(s)        203,381 bytes
+               2 Dir(s)  51,888,852,992 bytes free
